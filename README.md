@@ -1,10 +1,10 @@
 # Olá! 👋 Meu nome é Vinicius Fernandes (vixaze).
 
-Desenvolvedor de Software em formação, com grande entusiasmo por construir soluções web inovadoras e eficientes. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas na FIRC, com um foco especial em Java e no dinâmico mundo do desenvolvimento web.
+Desenvolvedor de Software em formação, com grande entusiasmo por construir soluções web inovadoras e eficientes. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas na FICR, com um foco especial em Java e no dinâmico mundo do desenvolvimento web.
 
 ## Sobre Mim
 
-Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição (FIRC), com uma paixão crescente por tecnologia e pela criação de software que resolve problemas reais. Minha jornada de aprendizado tem me levado a explorar diversas facetas do desenvolvimento, com um interesse particular no poder do back-end com Java e Spring Boot, e na interatividade proporcionada pelo JavaScript no front-end.
+Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição Do Recife (FICR), com uma paixão crescente por tecnologia e pela criação de software que resolve problemas reais. Minha jornada de aprendizado tem me levado a explorar diversas facetas do desenvolvimento, com um interesse particular no poder do back-end com Java e Spring Boot, e na interatividade proporcionada pelo JavaScript no front-end.
 
 Acredito que a colaboração e o aprendizado contínuo são pilares fundamentais para o crescimento na área de tecnologia. Estou sempre buscando novas oportunidades para expandir meu conhecimento e contribuir para projetos desafiadores.
 
