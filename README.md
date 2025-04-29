@@ -1,4 +1,4 @@
-# Olá! 👋 Meu nome é Vinicius Fernandes (vixaze).
+# Olá! 👋 Meu nome é Vinicius Fernandes (vinixaze).
 
 Desenvolvedor de Software em formação, com grande entusiasmo por construir soluções web inovadoras e eficientes. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas na FICR, com um foco especial em Java e no dinâmico mundo do desenvolvimento web.
 
